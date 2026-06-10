@@ -2,7 +2,7 @@
 ### Seveso/Brianza Corridor · Lombardy, Italy
 
 > **Independent research project** — Roberto Maffio  
-> Contact: [GitHub Issues](https://github.com/rmaffio/hailguard/issues) or via email on request
+> Contact: [GitHub Issues](https://github.com/romaff94/hailguard/issues) or via email on request
 
 ---
 
